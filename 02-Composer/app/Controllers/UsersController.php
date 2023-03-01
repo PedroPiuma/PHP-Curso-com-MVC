@@ -19,4 +19,8 @@ use SON\Controller;
 
 class UsersController extends Controller
 {
+    // public function index()
+    // {
+    //     //
+    // }
 };
