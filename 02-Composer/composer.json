@@ -1,0 +1,15 @@
+{
+  "name": "u1/02-composer",
+  "authors": [
+    {
+      "name": "Luis Piuma"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "SON\\": "src",
+      "App\\": "app"
+    }
+  }
+}
